@@ -1,4 +1,4 @@
-python-telegram-bot==20.3
+python-telegram-bot==20.6
 vosk==0.3.45
+srt==3.5.3
 ffmpeg-python==0.2.0
-srt==3.5.0
